@@ -1,0 +1,32 @@
+<html>
+<head>
+<title>
+Employee data
+</title>
+</head>
+<body>
+<table>
+<tr>
+<th>S.no</th>
+<th>Name of the person</th>
+<th>Employee ID</th>
+<th>Email Address</th>
+<th>Designation</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Pallavi</td>
+<td>3</td>
+<td>ppatur@parallelskills.com</td>
+<td>Business Associate</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Neelima</td>
+<td>1</td>
+<td>nkolla@parallelskills.com</td>
+<td>HR Executive</td>
+</tr>
+</table>
+</body>
+</html>
